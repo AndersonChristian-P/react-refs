@@ -8,7 +8,7 @@ import Parent from "./components/ParentToChild/Parent"
 function App() {
   return (
     <div className="App">
-      Ref Examples
+      <h1>Ref Examples</h1>
       <ReactRef />
       <br />
       <br />

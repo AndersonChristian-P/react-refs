@@ -26,6 +26,7 @@ class ReactRef extends Component {
       <>
         <br />
         <br />
+        <div style={{ fontWeight: 700 }} >REACT Ref</div>
         <input
           name="email"
           onChange={this.onChange}

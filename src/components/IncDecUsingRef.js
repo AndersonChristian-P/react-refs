@@ -15,6 +15,7 @@ class IncDecUsingRef extends Component {
   render() {
     return (
       <>
+        <div style={{ fontWeight: 700 }} >Increment using Ref</div>
         <input
           type="text"
           ref={this.myRef}
